@@ -1,0 +1,30 @@
+﻿@model TeaShop.Models.Tea
+@{
+	ViewData["Title"] = "Edit";
+}
+<h1>Edit</h1>
+<h4>Tea</h4>
+<hr />
+		<form asp-action="Edit">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<input type="hidden" asp-for="IdTea"/>
+			<div class="form-group">
+				<label asp-for="TeaName" class="comtrol_label"></label>
+				<input asp-for="TeaName" class="form-control" />
+			</div>
+			<div class="form-group">
+				<label asp-for="PriceOfTea" class="comtrol_label"></label>
+				<input asp-for="PriceOfTea" class="form-control" />
+			</div>
+			<div class="form-group">
+				<label asp-for="CategoryId" class="comtrol_label"></label>
+				<input asp-for="CategoryId" class="form-control" />
+			</div>
+			<div class="form-group">
+				<label asp-for="PlaceOfCultivationId" class="comtrol_label"></label>
+				<input asp-for="PlaceOfCultivationId" class="form-control" />
+			</div>
+		</form>
+<div>
+	<a asp-action="Index">Back to List</a>
+</div>

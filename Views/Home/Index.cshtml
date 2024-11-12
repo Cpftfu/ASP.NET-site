@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <div class="container">
+        <h1 class="display-4">TeaShop</h1>
+        <div class="d-flex justify-content-between">
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action=" Main">Главная</a></span>
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Contact">Контакты</a></span>
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action="About_Us">О нас</a></span>
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Sale">Акции</a></span>
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Catalog">Каталог</a></span>
+        </div>
+    </div>
+    <div class="image-container">
+        <img src="~/images/tea_second.jpg" alt="Картинка 2" />
+        <img src="~/images/tea_first.jpg" alt="Картинка 1" />
+        <img src="~/images/tea_third.jpg" alt="Картинка 3" />
+    </div>
+</div>

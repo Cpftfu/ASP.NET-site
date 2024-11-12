@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Sale Page";
+}
+
+<div class="text-center">
+    <div class="container">
+        <h1 class="display-4">TeaShop</h1>
+        <div class="d-flex justify-content-between">
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action=" Main">Главная</a></span>
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Contact">Контакты</a></span>
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action="About_Us">О нас</a></span>
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Sale">Акции</a></span>
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Catalog">Каталог</a></span>
+        </div>
+    </div>
+
+<div class="container-for-sale">
+    <div class="product-card-one">
+            <img src="~/images/Plum Oolong Tea.jpeg" alt="Товар 1" class="product-image-sale">
+            <div class="product-name-sale">Сливовый Улун</div>
+            <div class="old-price-sale">1000₽</div>
+            <div class="new-price-sale">750₽</div>
+    </div>
+
+    <div class="product-card-two">
+            <img src="~/images/Jasmine Reserve Tea.jpeg" alt="Товар 2" class="product-image-sale">
+            <div class="product-name-sale">Жасминовый Чай</div>
+            <div class="old-price-sale">1500₽</div>
+            <div class="new-price-sale">1000₽</div>
+    </div>
+</div>

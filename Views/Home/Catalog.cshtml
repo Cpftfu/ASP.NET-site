@@ -1,0 +1,75 @@
+﻿@model IEnumerable<TeaShop.Models.Tea>
+@{
+    ViewBag.Title = "Весь чай";
+}
+<a class="add-category-button"  asp-action="Create">Добавить чай</a>
+<table class="table">
+
+    @if (Model != null && Model.Any())
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.TeaName</td>
+                <td>
+                    <a asp-action="Edit" asp-controller="Catalog" asp-route-id="@item.IdTea">Изменить</a>
+                    <a asp-action="Delete" asp-controller="Catalog" asp-route-id="@item.IdTea">Удалить</a>
+                </td>
+            </tr>
+        }
+    }
+    else
+    {
+        <tr>
+            <td colspan="2">Нет доступного чая</td>
+        </tr>
+    }
+</table>
+
+
+<div class="text-center">
+    <div class="container">
+        <h1 class="display-4">TeaShop</h1>
+        <div class="d-flex justify-content-between">
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Main">Главная</a></span>
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Contact">Контакты</a></span>
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action="About_Us">О нас</a></span>
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Sale">Акции</a></span>
+            <span><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Catalog">Каталог</a></span>
+        </div>
+    </div>
+
+
+    <div class="tea-list">
+        <div class="tea-item">
+            <img src="~/images/Plum Oolong Tea.jpeg" alt="Товар 1" class="product-image">
+            <div class="product-name">Сливовый Улун</div>
+            <div class="price">750₽</div>
+        </div>
+        <div class="tea-item">
+            <img src="~/images/Jasmine Reserve Tea.jpeg" alt="Товар 2" class="product-image">
+            <div class="product-name">Жасминовый Чай</div>
+            <div class="price">1000₽</div>
+        </div>
+        <div class="tea-item">
+            <img src="~/images/Liquid Jade Tea - 4oz Zip Pouch (Avg_ 60 cups).jpeg" alt="Товар 3" class="product-image">
+            <div class="product-name">Жидкий Нефритовый Чай</div>
+            <div class="price">600₽</div>
+        </div>
+        <div class="tea-item">
+            <img src="~/images/Sleep Blend Tea.jpeg" alt="Товар 4" class="product-image">
+            <div class="product-name">Чай для Сна</div>
+            <div class="price">650₽</div>
+        </div>
+        <div class="tea-item">
+            <img src="~/images/Art of Tea_ Organic Loose Leaf Teas, Tea Bags & Tea Gift.jpeg" alt="Товар 5" class="product-image">
+            <div class="product-name">Органический Листовый Чай</div>
+            <div class="price">500₽</div>
+        </div>
+        <div class="tea-item">
+            <img src="~/images/Darjeeling Tea - 4oz Zip Pouch (Avg_ 80-90 cups).jpeg" alt="Товар 6" class="product-image">
+            <div class="product-name">Чай Дарджилинг</div>
+            <div class="price">450₽</div>
+        </div>
+    </div>
+</div>

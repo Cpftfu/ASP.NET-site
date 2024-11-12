@@ -1,0 +1,26 @@
+﻿@model TeaShop.Models.Tea
+@{
+	ViewBag.Title = "Добавление чая";
+}
+
+<form asp_action="Create" asp-asp-controller="Home" method="post">
+	<div class="form-group">
+		<label asp-for="TeaName" class="control-label">Название чая</label>
+		<input type="text" asp-for="TeaName" class="form-control" />
+	</div>
+	<div class="form-group">
+		<label asp-for="PriceOfTea" class="control-label">Цена чая</label>
+		<input type="text" asp-for="PriceOfTea" class="form-control" />
+	</div>
+	<div class="form-group">
+		<label asp-for="CategoryId" class="control-label">Категория чая</label>
+		<input type="text" asp-for="CategoryId" class="form-control" />
+	</div>
+	<div class="form-group">
+		<label asp-for="PlaceOfCultivationId" class="control-label">Место выращивания чая</label>
+		<input type="text" asp-for="PlaceOfCultivationId" class="form-control" />
+	</div>
+	<div class="form-group">
+		<input type="submit" value="Отправить" class="btn btn-default"
+	</div>
+</form>

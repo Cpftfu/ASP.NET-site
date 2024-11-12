@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\models\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:models\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\models\\teashopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:models\\teashopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\views\\home\\sale.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:views\\home\\sale.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|c:\\users\\\u0432\u0438\u043A\u0430\\source\\repos\\teashop\\views\\home\\about_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCB0E32-4B1E-4EE0-825D-D7BFF6E6DD43}|TeaShop.csproj|solutionrelative:views\\home\\about_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAPAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T06:29:40.066Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:07:26.313Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:25:24.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T06:49:26.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T06:19:52.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T11:18:02.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T08:27:49.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Catalog.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Catalog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Catalog.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Catalog.cshtml",
+              "RelativeToolTip": "Views\\Home\\Catalog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T15:20:39.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:43:09.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeaShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Models\\TeaShopDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\TeaShopDbContext.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Models\\TeaShopDbContext.cs",
+              "RelativeToolTip": "Models\\TeaShopDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:16:43.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T09:53:35.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Models\\Tea.cs",
+              "RelativeDocumentMoniker": "Models\\Tea.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Models\\Tea.cs",
+              "RelativeToolTip": "Models\\Tea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:00:29.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T06:21:08.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Sale.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Sale.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Sale.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\Sale.cshtml",
+              "RelativeToolTip": "Views\\Home\\Sale.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T15:14:08.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "About_Us.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\About_Us.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About_Us.cshtml",
+              "ToolTip": "C:\\Users\\\u0412\u0438\u043A\u0430\\source\\repos\\TeaShop\\Views\\Home\\About_Us.cshtml",
+              "RelativeToolTip": "Views\\Home\\About_Us.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T12:41:44.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 940,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
